@@ -1,0 +1,9 @@
+#topbar {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+#topbar>*{
+    margin-left: 5px;
+    margin-right: 5px;
+}
